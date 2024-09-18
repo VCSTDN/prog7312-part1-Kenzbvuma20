@@ -1,0 +1,68 @@
+﻿@model MainMenuViewModel
+
+<h2>Menu</h2>
+
+<ul class="menu-list">
+    @foreach (var menuItem in Model.MenuOptions)
+    {
+        <li>
+            @if (menuItem.Enabled)
+            {
+                @if (menuItem.Text == "Reports")
+                {
+                    <a asp-controller="Home" asp-action="CreateReportIssue" class="menu-item">
+                        <i class="fas fa-chart-bar"></i> @menuItem.Text
+                    </a>
+                }
+                else
+                {
+                    <a asp-controller="@menuItem.Controller" asp-action="@menuItem.Action" class="menu-item">
+                        <i class="fas fa-@(menuItem.Icon)"></i> @menuItem.Text
+                    </a>
+                }
+            }
+            else
+            {
+                <span class="menu-item disabled">
+                    <i class="fas fa-lock"></i> @menuItem.Text (Coming soon...)
+                </span>
+            }
+        </li>
+    }
+</ul>
+
+<h2>Reports</h2>
+
+
+<ul>
+    @foreach (var reportIssue in Model.ReportIssues)
+    {
+        <li>
+            <div class="card mb-3 report-card">
+                <h5 class="card-header">@reportIssue.Location</h5>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <span>Category: @reportIssue.Category</span>
+                        </div>
+                        <div class="col-md-4">
+                            <span>Description: @reportIssue.Description</span>
+                        </div>
+                        @if (!string.IsNullOrEmpty(reportIssue.MediaAttachmentFilePath))
+                        {
+                            <div class="col-md-4">
+                                <img src="@Url.Content($"~/uploads/{reportIssue.MediaAttachmentFilePath}")" alt="Media Attachment" class="img-fluid" />
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </li>
+    }
+</ul>
+
+<footer>
+    <div class="container">
+        &copy; 2024 - ReportsIssue
+    </div>
+</footer>

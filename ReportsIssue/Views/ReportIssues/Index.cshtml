@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ReportIssueViewModel>
+
+<h2>Report Issues</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Reports Issue Id</th>
+            <th>Location</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reportIssue in Model)
+        {
+            <tr>
+                <td>@reportIssue.ReportsIssueId</td>
+                <td>@reportIssue.Location</td>
+                <td>@reportIssue.Category</td>
+                <td>@reportIssue.Description</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
