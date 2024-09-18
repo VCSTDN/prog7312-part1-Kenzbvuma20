@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\reportissues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\reportissues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\migrations\\reportsissuedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\migrations\\reportsissuedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -25,6 +21,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\reportissues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,20 +83,12 @@
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\models\\mainmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\models\\reportsissuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\models\\reportsissuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\models\\mediaattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\models\\mediaattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\migrations\\reportsissuedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\migrations\\reportsissuedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,15 +159,7 @@
       "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.ReportIssues.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|solutionrelative:reportsissue\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09552D9-0A37-4223-BF11-F0951146B675}|ReportsIssue\\ReportsIssue.csproj|c:\\users\\user\\source\\repos\\st10209283progpoe7321part-1\\reportsissue\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -173,7 +173,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 23,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -181,80 +181,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReportsIssue\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReportsIssue\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:39:34.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ReportsIssue\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-28T19:05:04.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "theme.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\theme.css",
-              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\theme.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\theme.css",
-              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\theme.css",
-              "ViewState": "AgIAACwBAAAAAAAAAAAAADMBAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T12:34:56.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
-              "RelativeDocumentMoniker": "ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
-              "RelativeToolTip": "ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T19:27:38.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportIssueViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ReportIssueViewModel.cs",
-              "RelativeDocumentMoniker": "ReportsIssue\\Models\\ReportIssueViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ReportIssueViewModel.cs",
-              "RelativeToolTip": "ReportsIssue\\Models\\ReportIssueViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T18:57:00.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ReportsIssue\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-11T10:05:33.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\custom.css",
-              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\custom.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\custom.css",
-              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\custom.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T07:08:07.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\Home\\Privacy.cshtml",
@@ -266,7 +219,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ReportsIssue\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T10:05:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\Shared\\Error.cshtml",
@@ -278,19 +243,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ReportsIssue\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ReportsIssue\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReportsIssueDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:39:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReportsIssue\\Views\\ReportIssues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\ReportIssues\\Create.cshtml*",
+              "RelativeToolTip": "ReportsIssue\\Views\\ReportIssues\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T16:39:34.035Z"
+              "WhenOpened": "2024-09-02T19:27:38.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T18:26:17.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "theme.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\theme.css",
+              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\theme.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\theme.css",
+              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\theme.css",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAM4TAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T12:34:56.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Program.cs",
+              "RelativeDocumentMoniker": "ReportsIssue\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Program.cs",
+              "RelativeToolTip": "ReportsIssue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:07:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportsIssue\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\appsettings.json",
+              "RelativeToolTip": "ReportsIssue\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T09:31:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T07:08:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\site.js",
+              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\site.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\site.js",
+              "RelativeToolTip": "ReportsIssue\\wwwroot\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T21:55:42.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportIssueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ReportIssueViewModel.cs",
+              "RelativeDocumentMoniker": "ReportsIssue\\Models\\ReportIssueViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ReportIssueViewModel.cs",
+              "RelativeToolTip": "ReportsIssue\\Models\\ReportIssueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:57:00.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -302,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "20240917152850_finalProgressbar.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240917152850_finalProgressbar.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240917152850_finalProgressbar.cs",
@@ -314,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\ReportIssues\\Index.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\ReportIssues\\Index.cshtml",
@@ -326,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ReportIssuesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Controllers\\ReportIssuesController.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Controllers\\ReportIssuesController.cs",
@@ -338,19 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ReportsIssue\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-01T18:26:17.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "MainMenuViewModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\MainMenuViewModel.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Models\\MainMenuViewModel.cs",
@@ -362,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Models\\MenuItem.cs",
@@ -374,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ReportsIssueDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ReportsIssueDbContext.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Models\\ReportsIssueDbContext.cs",
@@ -386,19 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Program.cs",
-              "RelativeDocumentMoniker": "ReportsIssue\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Program.cs",
-              "RelativeToolTip": "ReportsIssue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:07:59.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "MediaAttachment.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\MediaAttachment.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Models\\MediaAttachment.cs",
@@ -410,19 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReportsIssueDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ReportsIssue\\Migrations\\ReportsIssueDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T20:39:17.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Controllers\\HomeController.cs",
@@ -434,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20240901095824_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240901095824_InitialCreate.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240901095824_InitialCreate.cs",
@@ -446,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Models\\ErrorViewModel.cs",
@@ -458,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "20240901102120_Reports.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240901102120_Reports.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240901102120_Reports.cs",
@@ -470,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "20240901102417_ReportsFix.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240901102417_ReportsFix.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240901102417_ReportsFix.cs",
@@ -482,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "20240901175749_controllermenufix.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240901175749_controllermenufix.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240901175749_controllermenufix.cs",
@@ -494,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "20240902190321_AddIsProcessingColumn.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240902190321_AddIsProcessingColumn.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240902190321_AddIsProcessingColumn.cs",
@@ -506,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "20240903112614_RemoveEngagementMessageColumn.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240903112614_RemoveEngagementMessageColumn.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240903112614_RemoveEngagementMessageColumn.cs",
@@ -518,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "20240903130805_AddMediaAttachmentFilePath.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240903130805_AddMediaAttachmentFilePath.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240903130805_AddMediaAttachmentFilePath.cs",
@@ -530,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "20240903201544_AddStatusColumn.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240903201544_AddStatusColumn.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240903201544_AddStatusColumn.cs",
@@ -542,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "20240903204747_AddStatusColumnToReportIssues.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240903204747_AddStatusColumnToReportIssues.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240903204747_AddStatusColumnToReportIssues.cs",
@@ -554,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "20240903221852_AddStatusInt.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240903221852_AddStatusInt.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240903221852_AddStatusInt.cs",
@@ -566,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "20240911083923_AddProgressProperty.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240911083923_AddProgressProperty.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240911083923_AddProgressProperty.cs",
@@ -578,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20240911091502_removeprocessingandstatus.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240911091502_removeprocessingandstatus.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240911091502_removeprocessingandstatus.cs",
@@ -590,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20240911091920_removeprocessingandstatus2.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Migrations\\20240911091920_removeprocessingandstatus2.cs",
               "RelativeDocumentMoniker": "ReportsIssue\\Migrations\\20240911091920_removeprocessingandstatus2.cs",
@@ -602,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\_ViewStart.cshtml",
@@ -614,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "ReportsIssue\\Views\\Shared\\_Layout.cshtml.css",
@@ -626,36 +659,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\site.js",
-              "RelativeDocumentMoniker": "ReportsIssue\\wwwroot\\site.js",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\wwwroot\\site.js",
-              "RelativeToolTip": "ReportsIssue\\wwwroot\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-03T21:55:42.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "dbo.ReportIssues.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.ReportIssues.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/master/True/SqlTable/dbo.ReportIssues.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-09-03T23:49:24.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\appsettings.json",
-              "RelativeDocumentMoniker": "ReportsIssue\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\appsettings.json",
-              "RelativeToolTip": "ReportsIssue\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T09:31:52.575Z"
             },
             {
               "$type": "Document",
@@ -668,16 +677,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T09:38:04.987Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 377,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

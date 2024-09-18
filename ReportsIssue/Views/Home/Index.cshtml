@@ -43,10 +43,10 @@
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-4">
-                            <span>Category: @reportIssue.Category</span>
+                            <span>@reportIssue.Category</span>
                         </div>
                         <div class="col-md-4">
-                            <span>Description: @reportIssue.Description</span>
+                            <span>@reportIssue.Description</span>
                         </div>
                         @if (!string.IsNullOrEmpty(reportIssue.MediaAttachmentFilePath))
                         {
@@ -60,7 +60,6 @@
         </li>
     }
 </ul>
-
 <footer>
     <div class="container">
         &copy; 2024 - ReportsIssue

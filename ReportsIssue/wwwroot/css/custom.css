@@ -1,1 +1,35 @@
-﻿
+﻿.menu-item {
+    background-color: #f7f7f7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+    margin-bottom: 10px; /* Add a margin to the bottom of each menu item */
+}
+
+    .menu-item:hover {
+        background-color: #e7e7e7;
+        color: #333;
+    }
+
+    .menu-item.disabled {
+        background-color: #ccc;
+        color: #666;
+        cursor: not-allowed;
+    }
+
+.report-card {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .report-card:hover {
+        background-color: #e7e7e7;
+        color: #333;
+    }
+
+ul li {
+    display: inline-block;
+    margin-right: 20px; /* add some space between items */
+}
