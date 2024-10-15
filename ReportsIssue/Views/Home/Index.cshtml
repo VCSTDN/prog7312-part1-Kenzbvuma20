@@ -1,67 +1,63 @@
 ﻿@model MainMenuViewModel
 
-<h2>Menu</h2>
-
-<ul class="menu-list">
-    @foreach (var menuItem in Model.MenuOptions)
-    {
-        <li>
-            @if (menuItem.Enabled)
-            {
-                @if (menuItem.Text == "Reports")
+<div class="container mt-4">
+    <!-- Menu Section -->
+    <h2 class="mb-3">Menu</h2>
+    <ul class="list-group menu-list">
+        @foreach (var menuItem in Model.MenuOptions)
+        {
+            <li class="list-group-item">
+                @if (menuItem.Enabled)
                 {
-                    <a asp-controller="Home" asp-action="CreateReportIssue" class="menu-item">
-                        <i class="fas fa-chart-bar"></i> @menuItem.Text
+                    <a asp-controller="@menuItem.Controller" asp-action="@menuItem.Action" class="menu-item d-flex align-items-center">
+                        <i class="fas fa-@(menuItem.Icon) fa-lg mr-2"></i> @menuItem.Text
                     </a>
                 }
                 else
                 {
-                    <a asp-controller="@menuItem.Controller" asp-action="@menuItem.Action" class="menu-item">
-                        <i class="fas fa-@(menuItem.Icon)"></i> @menuItem.Text
-                    </a>
+                    <span class="menu-item disabled d-flex align-items-center">
+                        <i class="fas fa-lock fa-lg mr-2"></i> @menuItem.Text (Coming soon...)
+                    </span>
                 }
-            }
-            else
-            {
-                <span class="menu-item disabled">
-                    <i class="fas fa-lock"></i> @menuItem.Text (Coming soon...)
-                </span>
-            }
-        </li>
-    }
-</ul>
+            </li>
+        }
+    </ul>
 
-<h2>Reports</h2>
-
-
-<ul>
-    @foreach (var reportIssue in Model.ReportIssues)
-    {
-        <li>
-            <div class="card mb-3 report-card">
-                <h5 class="card-header">@reportIssue.Location</h5>
-                <div class="card-body">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <span>@reportIssue.Category</span>
-                        </div>
-                        <div class="col-md-4">
-                            <span>@reportIssue.Description</span>
-                        </div>
-                        @if (!string.IsNullOrEmpty(reportIssue.MediaAttachmentFilePath))
-                        {
+    <!-- Reports Section -->
+    <h2 class="mt-5 mb-3">Reports</h2>
+    <ul class="list-unstyled">
+        @foreach (var reportIssue in Model.ReportIssues)
+        {
+            <li class="mb-4">
+                <div class="card shadow-sm report-card">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0">@reportIssue.Location</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
                             <div class="col-md-4">
-                                <img src="@Url.Content($"~/uploads/{reportIssue.MediaAttachmentFilePath}")" alt="Media Attachment" class="img-fluid" />
+                                <strong>Category:</strong> <span>@reportIssue.Category</span>
                             </div>
-                        }
+                            <div class="col-md-4">
+                                <strong>Description:</strong> <span>@reportIssue.Description</span>
+                            </div>
+                            @if (!string.IsNullOrEmpty(reportIssue.MediaAttachmentFilePath))
+                            {
+                                <div class="col-md-4">
+                                    <img src="@Url.Content($"~/uploads/{reportIssue.MediaAttachmentFilePath}")" alt="Media Attachment" class="img-fluid rounded shadow" />
+                                </div>
+                            }
+                        </div>
                     </div>
                 </div>
-            </div>
-        </li>
-    }
-</ul>
-<footer>
-    <div class="container">
-        &copy; 2024 - ReportsIssue
-    </div>
-</footer>
+            </li>
+        }
+    </ul>
+
+    <!-- Subtle Footer -->
+    <footer class="mt-4">
+        <div class="container text-center">
+            <small class="text-muted">&copy; 2024 - ReportsIssue</small>
+        </div>
+    </footer>
+</div>

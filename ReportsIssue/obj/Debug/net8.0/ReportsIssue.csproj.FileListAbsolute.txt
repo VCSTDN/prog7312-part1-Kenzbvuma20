@@ -262,6 +262,7 @@ C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\ne
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.RazorAssemblyInfo.cache
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.sourcelink.json
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\staticwebassets\msbuild.ReportsIssue.Microsoft.AspNetCore.StaticWebAssets.props
@@ -278,4 +279,3 @@ C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\ne
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.pdb
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.genruntimeconfig.cache
 C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ref\ReportsIssue.dll
-C:\Users\User\source\repos\ST10209283PROGPOE7321Part-1\ReportsIssue\obj\Debug\net8.0\ReportsIssue.sourcelink.json

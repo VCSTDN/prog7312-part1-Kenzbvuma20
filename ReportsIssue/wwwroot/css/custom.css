@@ -1,22 +1,27 @@
-﻿.menu-item {
+﻿/* Menu Item Styling */
+.menu-item {
     background-color: #f7f7f7;
     padding: 10px 20px;
     border-radius: 5px;
     transition: background-color 0.3s ease-in-out;
     margin-bottom: 10px; /* Add a margin to the bottom of each menu item */
+    text-decoration: none; /* Remove underline */
 }
 
     .menu-item:hover {
         background-color: #e7e7e7;
         color: #333;
+        text-decoration: none; /* Ensure no underline on hover */
     }
 
     .menu-item.disabled {
         background-color: #ccc;
         color: #666;
         cursor: not-allowed;
+        text-decoration: none; /* Remove underline for disabled items */
     }
 
+/* Report Card Styling */
 .report-card {
     background-color: #f7f7f7;
     padding: 20px;
@@ -29,7 +34,47 @@
         color: #333;
     }
 
+/* List Styling */
 ul li {
     display: inline-block;
     margin-right: 20px; /* add some space between items */
 }
+
+/* Event Card Styling */
+.card {
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-bottom: 20px; /* Ensure spacing between cards */
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+
+.card-title {
+    font-size: 1.25rem;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+    border-top: none;
+    text-align: right; /* Align the button to the right */
+}
+
+/* Button Styling */
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+    .btn-secondary:hover {
+        background-color: #5a6268;
+    }

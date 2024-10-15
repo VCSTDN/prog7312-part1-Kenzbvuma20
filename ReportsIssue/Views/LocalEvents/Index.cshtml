@@ -1,0 +1,78 @@
+﻿<h3>Unique Categories</h3>
+<ul>
+    @foreach (var category in ViewBag.UniqueCategories)
+    {
+        <li>@category</li>
+    }
+</ul>
+
+<!-- Event search form -->
+<form method="get" class="mb-5">
+    <div class="form-row">
+        <div class="col-md-4 mb-3">
+            <label for="searchCategory">Search by Category:</label>
+            <select name="searchCategory" id="searchCategory" class="form-control">
+                <option value="">All Categories</option>
+                <option value="Sanitation">Sanitation</option>
+                <option value="Roads">Roads</option>
+                <option value="Other">Other</option>
+                <option value="Environment">Environment</option>
+                <option value="Public Safety">Public Safety</option>
+                <option value="Accessibility">Accessibility</option>
+                <option value="Utilities and Energy">Utilities and Energy</option>
+                <option value="Housing and Buildings">Housing and Buildings</option>
+                <option value="Traffic and Transportation">Traffic and Transportation</option>
+                <option value="Parks and Recreation">Parks and Recreation</option>
+                <option value="Noise">Noise</option>
+                <option value="Animal Control">Animal Control</option>
+                <option value="Education">Education</option>
+            </select>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="searchStartDate">Start Date:</label>
+            <input type="date" name="searchStartDate" id="searchStartDate" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label for="searchEndDate">End Date:</label>
+            <input type="date" name="searchEndDate" id="searchEndDate" class="form-control" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<!-- Event listing -->
+<div class="row">
+    @foreach (var localEvent in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@localEvent.Title</h5>
+                    <p class="card-text">@localEvent.Description</p>
+                    <p><strong>Category:</strong> @localEvent.Category</p>
+                    <p><strong>Date:</strong> @localEvent.EventDate.ToString("yyyy-MM-dd")</p>
+                </div>
+                <div class="card-footer text-right">
+                    <a asp-action="Details" asp-route-id="@localEvent.EventId" class="btn btn-sm btn-secondary">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<!-- Recommended Events -->
+@if (ViewBag.RecommendedEvents != null && ((IEnumerable<ReportsIssue.Models.LocalEvent>)ViewBag.RecommendedEvents).Any())
+{
+    <div class="recommended-events mt-5">
+        <h3>Recommended Events Based on Your Interests</h3>
+        @* Explicitly cast ViewBag.RecommendedEvents to IEnumerable<LocalEvent> *@
+        @foreach (var eventItem in (IEnumerable<ReportsIssue.Models.LocalEvent>)ViewBag.RecommendedEvents)
+        {
+            <li>
+                <a href="@Url.Action("Details", "LocalEvents", new { id = eventItem.EventId })">
+                    @eventItem.Title - @eventItem.EventDate.ToString("yyyy-MM-dd")
+                </a>
+            </li>
+        }
+    </div>
+}

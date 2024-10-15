@@ -68,6 +68,8 @@ namespace ReportsIssue.Controllers
                     MediaAttachmentFilePath = model.MediaAttachmentFilePath,
                    
                 };
+                    
+
 
                 // Use the DbContext to save the report issue to the database
                 _dbContext.ReportIssues.Add(reportIssueVM);

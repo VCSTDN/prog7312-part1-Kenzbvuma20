@@ -25,22 +25,18 @@ namespace ReportsIssue.Controllers
                 MenuOptions = new[]
                 {
             new MenuItem { Text = "Report Issues", Enabled = true, Controller = "Home", Action = "CreateReportIssue" },
-            new MenuItem { Text = "Local Events and Announcements", Enabled = false },
+            new MenuItem { Text = "Local Events and Announcements", Enabled = true, Controller = "LocalEvents", Action = "Index" }, // Add Controller and Action
             new MenuItem { Text = "Service Request Status", Enabled = false }
-                }
-
-             
-
-
+        }
             };
 
             // Retrieve the saved report issues from the database
             var reportIssues = _dbContext.ReportIssues.ToList();
-
-            // Add the report issues to the view model
             viewModel.ReportIssues = reportIssues;
+
             return View(viewModel);
         }
+
 
         [HttpGet]
         public IActionResult CreateReportIssue()
