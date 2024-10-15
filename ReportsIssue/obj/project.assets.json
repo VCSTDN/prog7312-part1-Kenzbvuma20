@@ -4231,11 +4231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\ReportsIssue.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-2\\ReportsIssue\\ReportsIssue.csproj",
       "projectName": "ReportsIssue",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\ReportsIssue.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-2\\ReportsIssue\\ReportsIssue.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-1\\ReportsIssue\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ST10209283PROGPOE7321Part-2\\ReportsIssue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

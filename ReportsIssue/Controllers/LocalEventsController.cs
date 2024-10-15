@@ -19,7 +19,7 @@ namespace ReportsIssue.Controllers
         }
 
 
-        public IActionResult Index(string searchCategory, string searchStartDate, string searchEndDate)
+        public IActionResult Index(string searchCategory, string searchStartDate, string searchEndDate, string searchQuery)
         {
             var events = _dbContext.LocalEvents.AsQueryable();
 
@@ -39,10 +39,15 @@ namespace ReportsIssue.Controllers
                 events = events.Where(e => e.EventDate >= startDate.Value && e.EventDate <= endDate.Value);
             }
 
+            // Filter by search query if provided
+            if (!string.IsNullOrEmpty(searchQuery))
+            {
+                events = events.Where(e => e.Title.Contains(searchQuery) || e.Description.Contains(searchQuery));
+            }
+
             // Use SortedDictionary to organize events by date
             var sortedEvents = new SortedDictionary<DateTime, List<LocalEvent>>();
-            // Use HashSet for unique categories
-            var uniqueCategories = new HashSet<string>();  
+            var uniqueCategories = new HashSet<string>();  // Use HashSet for unique categories
 
             foreach (var localEvent in events)
             {
@@ -63,6 +68,7 @@ namespace ReportsIssue.Controllers
             ViewBag.UniqueCategories = uniqueCategories; // Pass unique categories using ViewBag
             return View(orderedEvents);
         }
+
 
         public IActionResult Details(int id)
         {
